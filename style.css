@@ -50,26 +50,19 @@ button:hover {
     border-color: rgb(241, 16, 8);
 }
 
-#mid {
+ul {
     font-family: cursive, Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.container {
-    border: 3px;
-    background-color: rgb(0, 0, 0);
-    margin-right: 1px 3px;
-    border-radius: 45px;
-}
 
-
-.midhead {
+li {
     float: left;
     list-style: none;
     padding: 0px 5px;
     color: rgb(3, 0, 0);
 }
 
-.midhead:hover {
+li:hover {
     color: rgb(245, 71, 236);
 }
 
@@ -90,7 +83,4 @@ li button {
     padding: px 3px;
     margin: 6px 30px;
     border-radius: 10px;
-}
-.intro{
-    float: left;
 }
