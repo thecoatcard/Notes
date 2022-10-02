@@ -1,0 +1,96 @@
+body {
+    background-color: yellowgreen;
+    }
+
+
+.head {
+    color: white;
+    border-color: rgb(241, 16, 8);
+    margin: 0px 35px;
+    font-size: 30px;
+    border-radius: 45px;
+    padding: 0%;
+    cursor: pointer;
+}
+
+.head:hover {
+    color: rgb(245, 71, 236);
+    margin: 0px 35px;
+    font-size: 30px;
+    border-radius: 45px;
+    padding: 0%;
+}
+
+a:hover {
+    color: rgb(245, 71, 236);
+    text-decoration: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.last:hover {
+
+    color: rgb(245, 71, 236);
+    text-decoration: none;
+}
+
+button {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    float: right;
+    border-color: rgb(241, 16, 8);
+    border-radius: 45px;
+}
+
+button:hover {
+    float: right;
+    border-color: rgb(241, 16, 8);
+}
+
+#mid {
+    font-family: cursive, Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    border: 3px;
+    background-color: rgb(0, 0, 0);
+    margin-right: 1px 3px;
+    border-radius: 45px;
+}
+
+
+.midhead {
+    float: left;
+    list-style: none;
+    padding: 0px 5px;
+    color: rgb(3, 0, 0);
+}
+
+.midhead:hover {
+    color: rgb(245, 71, 236);
+}
+
+li button {
+    clear: both;
+    float: right;
+}
+
+.btn {
+    float: right;
+    padding: px 3px;
+    margin: 6px 30px;
+    border-radius: 10px;
+}
+.search{
+    border: 30px;
+    float: right;
+    padding: px 3px;
+    margin: 6px 30px;
+    border-radius: 10px;
+}
+.intro{
+    float: left;
+}
